@@ -1,19 +1,9 @@
-# Machine Learning made easy: Categorize and classify anything into taxonomies
-Categorize and classify anything into a taxonomy or categories using an API that utilizes ChatGPT. 
+# Example notebooks
+Example notebooks on how to use the API of <a href="https://api.howsustainabledataservices.com/" target="_blank">How Sustainable Data Services</a>.
 
-## Use cases: 
-* Classify products into a taxonomy. 
-* Classify texts/paragraphs based on predefined categories. 
-* Resolve complex taxonomy problems. 
-
-# Getting started
-
-## Getting started notebook
-The ['Getting started'-notebook](examples/get_started/get_started_classify_taxonomy_api.ipynb) provides examples on how to use the API and authenticate. 
-
-
-## API documentation
-API documentation can be found at: <a href="https://api.howsustainabledataservices.com/docs" target="_blank">How Sustainable Data Services - API docs</a>.
+## List of notebooks
+* ['Getting started with the taxonomy API'-notebook](getting_started/getting_started_classify_taxonomy_api.ipynb)
+* More example to come
 
 ## Questions?
 Contact us at: <a href="https://howsustainabledataservices.com/contact/" target="_blank">How Sustainable Data Services - Contact</a>
